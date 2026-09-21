@@ -13,3 +13,10 @@ h1 {
   font-size: 6rem;
   color: #222;
 }
+
+h2 {
+  font-family: 'Fraunces', Georgia, serif;
+  font-weight: 900;
+  font-size: 5rem;
+  color: #222;
+}
