@@ -4,6 +4,6 @@ document.body.insertAdjacentHTML('afterbegin', `
     <a href="/resume/">resume</a>
     <a href="/projects/">projects</a>
     <a href="/about/">about</a>
-    <a href="/portfolio_source/">portfolio</a>
+    <a href="/portfolio/">portfolio</a>
   </nav>
 `);
